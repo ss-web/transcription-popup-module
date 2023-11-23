@@ -1,0 +1,409 @@
+{
+  "file": {
+    "name": "test.mp4",
+    "type": "movie",
+    "attributes": []
+  },
+  "timecode": {
+    "frameRate": "25.000",
+    "tc": "00:00:00:00"
+  },
+  "transcriptions": [
+    {
+      "transcriptionId": "fads",
+      "transcription": {
+        "language": null,
+        "audioTrack": null,
+        "segments": [
+          {
+            "id": "322341fw",
+            "start": 0,
+            "end": 0.47,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "Lorem",
+                "confidence": 0.615
+              }
+            ]
+          },
+          {
+            "id": "1324",
+            "start": 0.47,
+            "end": 1.03,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "ipsum",
+                "confidence": 1
+              }
+            ]
+          },
+          {
+            "id": "1234",
+            "start": 1.03,
+            "end": 1.58,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "dolor",
+                "confidence": 1
+              }
+            ]
+          },
+          {
+            "id": "1324v2314v1324231",
+            "start": 1.59,
+            "end": 1.89,
+            "type": "punctuation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "sit",
+                "confidence": 1
+              }
+            ]
+          },
+          {
+            "id": "1234324132432",
+            "start": 1.89,
+            "end": 2.05,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "amet",
+                "confidence": 0.9977
+              }
+            ]
+          },
+          {
+            "id": "1243132224",
+            "start": 2.05,
+            "end": 2.56,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "consectetur",
+                "confidence": 0.4087
+              }
+            ]
+          },
+          {
+            "id": "144312132",
+            "start": 2.56,
+            "end": 2.63,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "adipisicing",
+                "confidence": 0.7085
+              }
+            ]
+          },
+          {
+            "id": "6rertwtwer",
+            "start": 2.63,
+            "end": 3.1,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "elit",
+                "confidence": 0.6823
+              }
+            ]
+          },
+          {
+            "id": "0987ytgfds4etfr",
+            "start": 3.62,
+            "end": 4,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": ".",
+                "confidence": 0.6027
+              }
+            ]
+          },
+          {
+            "id": "afsdadsfasdfdasfasdfwea",
+            "start": 4.1,
+            "end": 4.64,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "Est",
+                "confidence": 0.9999
+              }
+            ]
+          },
+          {
+            "id": "fa32rrfq3f43",
+            "start": 4.66,
+            "end": 4.74,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "fugit",
+                "confidence": 0.9999
+              }
+            ]
+          },
+          {
+            "id": "sdgsdfg4sdfg4sdfg",
+            "start": 4.74,
+            "end": 5.04,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": "repudiandae",
+                "confidence": 0.9999
+              }
+            ]
+          },
+          {
+            "id": "44432k2lhl24hk5424lh234",
+            "start": 5.1,
+            "end": 5.5,
+            "type": "pronunciation",
+            "speakerId": "spk_0",
+            "alternatives": [
+              {
+                "content": ".",
+                "confidence": 0.9999
+              }
+            ]
+          }
+        ],
+        "speakers": {
+          "spk_0": {
+            "id": "spk_0",
+            "name": "Speaker 1"
+          }
+        }
+      },
+      "status": "success",
+      "language": "da-DK",
+      "provider": "AWS",
+      "dateCreated": "2023-04-27T08:15:58+02:00",
+      "dateModified": "2023-04-27T08:15:58+02:00",
+      "createdBy": {
+        "name": "TEST"
+      }
+    }
+  ],
+  "generateOptions": {
+    "providers": [
+      {
+        "provider": {
+          "label": "AWSAdapter",
+          "value": "AWS"
+        },
+        "options": {
+          "languages": [
+            {
+              "label": "Automatic",
+              "value": "auto",
+              "selected": true
+            },
+            {
+              "label": "af-ZA",
+              "value": "af-ZA",
+              "selected": false
+            },
+            {
+              "label": "ar-AE",
+              "value": "ar-AE",
+              "selected": false
+            },
+            {
+              "label": "ar-SA",
+              "value": "ar-SA",
+              "selected": false
+            },
+            {
+              "label": "da-DK",
+              "value": "da-DK",
+              "selected": false
+            },
+            {
+              "label": "de-CH",
+              "value": "de-CH",
+              "selected": false
+            },
+            {
+              "label": "de-DE",
+              "value": "de-DE",
+              "selected": false
+            },
+            {
+              "label": "en-AB",
+              "value": "en-AB",
+              "selected": false
+            },
+            {
+              "label": "en-AU",
+              "value": "en-AU",
+              "selected": false
+            },
+            {
+              "label": "en-GB",
+              "value": "en-GB",
+              "selected": false
+            },
+            {
+              "label": "en-IE",
+              "value": "en-IE",
+              "selected": false
+            },
+            {
+              "label": "en-IN",
+              "value": "en-IN",
+              "selected": false
+            },
+            {
+              "label": "en-US",
+              "value": "en-US",
+              "selected": false
+            },
+            {
+              "label": "en-WL",
+              "value": "en-WL",
+              "selected": false
+            },
+            {
+              "label": "es-ES",
+              "value": "es-ES",
+              "selected": false
+            },
+            {
+              "label": "es-US",
+              "value": "es-US",
+              "selected": false
+            },
+            {
+              "label": "fa-IR",
+              "value": "fa-IR",
+              "selected": false
+            },
+            {
+              "label": "fr-CA",
+              "value": "fr-CA",
+              "selected": false
+            },
+            {
+              "label": "fr-FR",
+              "value": "fr-FR",
+              "selected": false
+            },
+            {
+              "label": "he-IL",
+              "value": "he-IL",
+              "selected": false
+            },
+            {
+              "label": "hi-IN",
+              "value": "hi-IN",
+              "selected": false
+            },
+            {
+              "label": "id-ID",
+              "value": "id-ID",
+              "selected": false
+            },
+            {
+              "label": "it-IT",
+              "value": "it-IT",
+              "selected": false
+            },
+            {
+              "label": "ja-JP",
+              "value": "ja-JP",
+              "selected": false
+            },
+            {
+              "label": "ko-KR",
+              "value": "ko-KR",
+              "selected": false
+            },
+            {
+              "label": "ms-MY",
+              "value": "ms-MY",
+              "selected": false
+            },
+            {
+              "label": "nl-NL",
+              "value": "nl-NL",
+              "selected": false
+            },
+            {
+              "label": "pt-BR",
+              "value": "pt-BR",
+              "selected": false
+            },
+            {
+              "label": "pt-PT",
+              "value": "pt-PT",
+              "selected": false
+            },
+            {
+              "label": "ru-RU",
+              "value": "ru-RU",
+              "selected": false
+            },
+            {
+              "label": "ta-IN",
+              "value": "ta-IN",
+              "selected": false
+            },
+            {
+              "label": "te-IN",
+              "value": "te-IN",
+              "selected": false
+            },
+            {
+              "label": "tr-TR",
+              "value": "tr-TR",
+              "selected": false
+            },
+            {
+              "label": "zh-CN",
+              "value": "zh-CN",
+              "selected": false
+            },
+            {
+              "label": "zh-TW",
+              "value": "zh-TW",
+              "selected": false
+            },
+            {
+              "label": "th-TH",
+              "value": "th-TH",
+              "selected": false
+            },
+            {
+              "label": "en-ZA",
+              "value": "en-ZA",
+              "selected": false
+            },
+            {
+              "label": "en-NZ",
+              "value": "en-NZ",
+              "selected": false
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
