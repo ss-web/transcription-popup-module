@@ -1,5 +1,8 @@
 # Transcription Google API Popup Vue Module
 
+
+![Transcription Google API Popup Vue Module](https://ss-web.ru/assets/images/popap-module.png)
+
 Integrate the power of the Google Cloud Transcription API seamlessly into your Vue.js application with our Transcription Google API Popup Vue Module. This module provides an efficient and user-friendly solution for transcribing both video and audio content, offering a versatile and customizable feature set.
 
 ## Key Features
